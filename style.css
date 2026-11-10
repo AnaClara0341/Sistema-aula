@@ -1,0 +1,37 @@
+body{
+    font-family: Arial, sans-serif;
+    background: #66aa77
+}
+
+    .container{
+        max-width: 400px;
+        margin: 0 auto;
+        padding: 24px;
+        background: rgb(177, 255, 210);
+        border-radius: 12px;
+    }
+    
+    h1{
+    color: rgb(0, 34, 17);
+    text-align: center;
+    }
+
+    input{
+        width: 100%;
+        padding: 8px;
+        box-sizing: border-box;
+        background-color: rgb(182, 247, 222);
+    }
+
+    #resultado{
+        font-size: 18px;
+        font-weight: bold;
+        text-align: center;
+    }
+
+    #btn-calcular{
+        background-color: rgb(19, 75, 37);
+        width: 27%;
+        padding: 3%;
+        
+    }
